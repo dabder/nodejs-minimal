@@ -1,0 +1,1 @@
+docker run -it --rm -v %cd%/app/:/usr/src/app/ -w /usr/src/app node:12-alpine node /usr/src/app/test.js

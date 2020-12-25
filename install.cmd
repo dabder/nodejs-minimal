@@ -1,0 +1,1 @@
+docker pull node:12-alpine
